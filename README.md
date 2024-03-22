@@ -1,16 +1,48 @@
-### Hi there 👋
+# 🔹 Olá mundo, seja bem vindo!
 
-<!--
-**LeonardoVT/LeonardoVT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="banner.png" width="250px" align="right">
 
-Here are some ideas to get you started:
+Em progresso para novos projetos📜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor Front-End
+<br/><br/>
+
+ - 💎 Estudante Dev Full Stack Master.
+ 
+ - 💎 Apaixonado por Games.
+ 
+ - 💎 Aprendendo novas linguagens de programação.
+   <br/><br/><br/>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+          
+          
+          
+</div>
+
+---
+
+<div align="center">
+<img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVT&show_icons=true&theme=radical&count_private=true" />
+<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoVT&show_icons=true&show_icons=true&theme=radical&count_private=true" />
+</div>
+
+---
+
+<div id="badges">
+  <a href="https://google.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" href="https://google.com">
+  </a>
+  <a href="https://google.com">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode">
+  
+</div>
