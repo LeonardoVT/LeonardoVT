@@ -30,8 +30,8 @@ Desenvolvedor Front-End.
 ---
 
 <div>
-<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVT&show_icons=true&theme=radical&count_private=true" />
-<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoVT&show_icons=true&show_icons=true&theme=radical&count_private=true" />
+<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVT&show_icons=true&theme=great-gatsby&count_private=true" />
+<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoVT&show_icons=true&show_icons=true&theme=great-gatsby&count_private=true" />
 </div>
 
 ---
