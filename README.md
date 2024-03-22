@@ -37,10 +37,10 @@ Desenvolvedor Front-End.
 ---
 
 <div id="badges">
-  <a href="https://google.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" href="https://google.com">
+  <a href="https://www.linkedin.com/in/leonardo-teles-12646321b/"
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://google.com">
+  <a href="https://www.instagram.com/vieira.teles_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode">
