@@ -1,10 +1,10 @@
 # 🔹 Olá mundo, seja bem vindo!
 
-<img src="banner.png" width="250px" align="right">
+<img src="banner2.gif" width="450px" align="right" >
 
 Em progresso para novos projetos📜
 
-Desenvolvedor Front-End
+Desenvolvedor Front-End.
 <br/><br/>
 
  - 💎 Estudante Dev Full Stack Master.
@@ -12,7 +12,7 @@ Desenvolvedor Front-End
  - 💎 Apaixonado por Games.
  
  - 💎 Aprendendo novas linguagens de programação.
-   <br/><br/><br/><br/><br/>
+   <br/><br/><br/><br/>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
