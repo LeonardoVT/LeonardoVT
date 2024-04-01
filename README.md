@@ -2,7 +2,7 @@
 
 <img src="banner2.gif" width="450px" align="right" >
 
-Em progresso para novos projetos📜
+Em progresso para novos projetos.
 
 Desenvolvedor Front-End.
 <br/><br/>
